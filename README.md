@@ -29,7 +29,7 @@ pip install  beautifulsoup4 requests easygui
 ```
 git clone https://github.com/N0vachr0n0/Courses_Alert.git
 cd Courses_Alert
-python3 Courses_Alert.py
+python3 courses_alert.py
 ```
 
 ## (ON WINDOWS)
@@ -39,7 +39,7 @@ python3 Courses_Alert.py
 Download .zip file
 Extract
 Go to Courses_Alert folder 
-python3 Courses_Alert.py (In your terminal)
+python3 courses_alert.py (In your terminal)
 
 ```
 
