@@ -10,7 +10,8 @@ with your keywords or center of interest.
 
 * Python3
 * BeautifulSoup
-* requests
+* requests (Built-in normally)
+* webbrowser (Built-in normally)
 * easygui
 
 ## (HOW TO INSTALL REQUIREMENT ?)
