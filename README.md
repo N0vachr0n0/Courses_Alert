@@ -53,4 +53,4 @@ python3 courses_alert.py (In your terminal)
 
 * N0vachr0n0
 * Comsavvy
-Thanks! Share and feel free to comment.
+<h3> Thanks! Share and feel free to comment.</h3>
