@@ -14,8 +14,7 @@ with your keywords or center of interest.
 * webbrowser (Built-in normally)
 * easygui
 
-## (HOW TO INSTALL REQUIREMENT ?)
-
+## HOW TO INSTALL REQUIREMENT
 
 ```
 Open your terminal so run following command :-
@@ -53,5 +52,5 @@ python3 courses_alert.py (In your terminal)
 # CREDIT
 
 * N0vachr0n0
-
-Thanks ! Share and feel free to commit !!
+* Comsavvy
+<h3> Thanks! Share and feel free to comment.</h3>
