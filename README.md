@@ -52,5 +52,5 @@ python3 courses_alert.py (In your terminal)
 # CREDIT
 
 * N0vachr0n0
-* Comsavvy
-<h3> Thanks! Share and feel free to comment.</h3>
+* <a href="https://github.com/comsavvy?tab=repositories">Comsavvy</a>
+<h3> Thanks! Please feel free to clone the repository.</h3>
